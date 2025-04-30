@@ -12,6 +12,6 @@ Artifacts are automatic deleted after a period of time.
 [TELBlazor](https://github.com/TechnologyEnhancedLearning/TELBlazor)
 [TELBlazor Production Showcase](https://technologyenhancedlearning.github.io/TELBlazor/)
 [TELBlazor Dev Showcase](https://technologyenhancedlearning.github.io/TELBlazor-DevShowCase/)
-[View Packaged Dev Showcase Code](https://technologyenhancedlearning/TELBlazor-DevShowCase/gh-pages/)
+[View Packaged Dev Showcase Code](https://technologyenhancedlearning/TELBlazor-DevShowCase/tree/gh-pages/)
 
 
