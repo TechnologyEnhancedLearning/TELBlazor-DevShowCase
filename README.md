@@ -8,10 +8,14 @@ Artifacts are automatic deleted after a period of time.
 
 # Links
 
-[last published package]([https://github.com/users/Phil-NHS/packages/nuget/package/TELBlazorComponentLibrary.GitPageBlazorWasm](https://github.com/orgs/TechnologyEnhancedLearning/packages?tab=packages&q=TELBlazor))
+[last published package](https://github.com/orgs/TechnologyEnhancedLearning/packages?tab=packages&q=TELBlazor)
+
 [TELBlazor](https://github.com/TechnologyEnhancedLearning/TELBlazor)
+
 [TELBlazor Production Showcase](https://technologyenhancedlearning.github.io/TELBlazor/)
+
 [TELBlazor Dev Showcase](https://technologyenhancedlearning.github.io/TELBlazor-DevShowCase/)
+
 [View Packaged Dev Showcase Code](https://technologyenhancedlearning/TELBlazor-DevShowCase/tree/gh-pages/)
 
 
