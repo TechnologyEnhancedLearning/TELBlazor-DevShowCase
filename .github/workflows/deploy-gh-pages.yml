@@ -15,7 +15,7 @@ permissions:
   contents: write
 env:
   
-  PACKAGES_TOKEN: ${{ secrets.PACKAGES_TOKEN }}
+  PACKAGES_TOKEN: ${{ secrets.NUGETKEY }}
   GITHUB_USERNAME: "Phil-NHS"
 
 jobs:
