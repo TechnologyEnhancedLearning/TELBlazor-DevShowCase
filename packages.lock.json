@@ -245,7 +245,7 @@
         "type": "Project",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "[8.0.14, )",
-          "TELBlazor.Components": "[1.0.4-ci-setup.1-250506-1332, )"
+          "TELBlazor.Components": "[1.0.4-ci-setup.1-250506-1358, )"
         }
       },
       "Microsoft.AspNetCore.Components.Web": {
@@ -278,9 +278,9 @@
       },
       "TELBlazor.Components": {
         "type": "CentralTransitive",
-        "requested": "[1.0.4-ci-setup.1-250506-1332, )",
-        "resolved": "1.0.4-ci-setup.1-250506-1332",
-        "contentHash": "b4wWX8vmOjo2dSf5DLOzjfASuriWlvW0oXvwrU+YfWVp2I9/HWBTqc55svEwYJReMaM55VW9y6NU0wj0TiHfig==",
+        "requested": "[1.0.4-ci-setup.1-250506-1358, )",
+        "resolved": "1.0.4-ci-setup.1-250506-1358",
+        "contentHash": "Xx9p2aUysNefH74IjRNLmh1463gOQKDggVFUidHJ2QAVpYWsjsQVbdue+nZZYzPXHlnmGDO8PXa2MnCdvf+jcw==",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.14",
           "Microsoft.Extensions.Http": "8.0.0"
