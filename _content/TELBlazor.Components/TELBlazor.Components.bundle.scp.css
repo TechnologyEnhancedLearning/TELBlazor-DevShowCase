@@ -1,12 +1,12 @@
-/* _content/TELBlazor.Components/Components/SimpleCounter.razor.rz.scp.css */
-h3[b-e0upo21qun] {
+/* _content/TELBlazor.Components/Components/TestComponents/CounterButton.razor.rz.scp.css */
+h3[b-kocqqx6e7l] {
     color: blue;
     font-size: 24px;
 }
-.scoped-css-simple-counter-red[b-e0upo21qun] {
+.scoped-css-simple-counter-red[b-kocqqx6e7l] {
 color: red;
 }
-button[b-e0upo21qun] {
+button[b-kocqqx6e7l] {
     background-color: lightblue;
     color: white;
     border-radius: 5px;
@@ -14,6 +14,6 @@ button[b-e0upo21qun] {
     font-size: 16px;
 }
 
-    button:hover[b-e0upo21qun] {
+    button:hover[b-kocqqx6e7l] {
         background-color: orange; /*navy;*/
     }
