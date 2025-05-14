@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TELBlazor.Components.ShowCase.WasmStaticClient",
   "resources": {
-    "hash": "sha256-aSBbDbYFQ+88P/eKIFTl4vCupAyxoKoOm8JyPDgNYNg=",
+    "hash": "sha256-9RsfPmCMkfA5WYobrD9gq4L/wtHh46J0Rhuh8ah7ts8=",
     "jsModuleNative": {
       "dotnet.native.8.0.14.ao03vwswak.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -55,7 +55,7 @@
       "System.ComponentModel.Primitives.wasm": "sha256-/iTpGAn0Ajfrez8HrnkvSHhIEFaE4tRsvHFnCL6vz7g=",
       "System.ComponentModel.TypeConverter.wasm": "sha256-N8JCPmYJ/11QKJFeaKZ2olqcjnGMh7NVIwfaaiqOvFU=",
       "System.ComponentModel.wasm": "sha256-ROX86o93ocLpZP95tZWQdSE3L7Pr4c7PIsbxlyrGewo=",
-      "System.Console.wasm": "sha256-R8kUSSont5vHxvEakw3mvpHlRPtwOevUuEKVGXlessE=",
+      "System.Console.wasm": "sha256-V1J4DW8NvV+JDlhUwEW/fcKKbqAmuVDWaux1FOiP4X8=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-V5FwC9jO6Rtsint/0wG2BDyXLcAB8EoBlf0St3NTm9k=",
       "System.IO.Compression.wasm": "sha256-tRKoD2P+R/b/PknlO6j2L4HQR2PXX9FG6TF23mkGcJk=",
       "System.IO.FileSystem.Watcher.wasm": "sha256-Qqp2wuM+seOpM3HvRFxNNqTJzlT9YpOJwQif3cPnMl4=",
@@ -78,9 +78,9 @@
       "System.Text.RegularExpressions.wasm": "sha256-Pns8BEYjdLIxkUGrHmoXrsh9WCKDhsZnjSfFLU+yZQQ=",
       "System.Threading.wasm": "sha256-fKqcheF9n6170f1R9J/6MvK2XmPFKH6r6A6mSu6QgFw=",
       "System.wasm": "sha256-qXepM8Oop8I1OsLVR8x7a8Xd7MHwoLhvdhz+zcTgtkU=",
-      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-MPdbJfkD5BrB+dYsrZJe0hV/H2iUtBRBYa2pkmVjxLQ=",
-      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-eOqmhuAqnQO+iZDfwrk5nNjHT3K99F1epqsN41R/w/0=",
-      "TELBlazor.Components.wasm": "sha256-QEVQ9N5BcV1Bkbm4ol+weTl0G5NygcIAtVx65i1ewrM="
+      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-ktCm4QEzpz039Is4ySpkI+nZHGphRX+DHw8mDPuyLf8=",
+      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-xXBvqDJ/NLLHaus70bgKvq2C6j7DqxJC1XBOU9Esymo=",
+      "TELBlazor.Components.wasm": "sha256-LgnsjpzN3en5rBBG3Eop0/nsr2BhHYRak4OGSmcSiwk="
     }
   },
   "cacheBootResources": true,
@@ -88,6 +88,7 @@
   "linkerEnabled": true,
   "appsettings": [
     "../appsettings.ci.json",
+    "../appsettings.Development.json",
     "../appsettings.json"
   ],
   "globalizationMode": "sharded",
