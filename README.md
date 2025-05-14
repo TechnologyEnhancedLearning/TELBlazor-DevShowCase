@@ -18,4 +18,4 @@ Artifacts are automatic deleted after a period of time.
 
 [View Packaged Dev Showcase Code](https://technologyenhancedlearning/TELBlazor-DevShowCase/tree/gh-pages/)
 
-
+[Code Report Page](https://technologyenhancedlearning.github.io/TELBlazor-CodeReport/)
