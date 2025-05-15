@@ -211,16 +211,6 @@ for (i = 0, l = charts.length; i < l; i++) {
 
 var assemblies = [
   {
-    "name": "TELBlazor.Components.ShowCase.E2ETests.WasmServerHost",
-    "classes": [
-      { "name": "Program", "rp": "TELBlazor.Components.ShowCase.E2ETests.WasmServerHost_Program.html", "cl": 48, "ucl": 15, "cal": 63, "tl": 133, "cb": 4, "tb": 6, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-    ]},
-  {
-    "name": "TELBlazor.Components.ShowCase.E2ETests.WasmServerHost.Client",
-    "classes": [
-      { "name": "Program", "rp": "TELBlazor.Components.ShowCase.E2ETests.WasmServerHost.Client_Program.html", "cl": 0, "ucl": 38, "cal": 38, "tl": 79, "cb": 0, "tb": 4, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-    ]},
-  {
     "name": "TELBlazor.Components.ShowCase.Shared",
     "classes": [
       { "name": "TELBlazor.Components.ShowCase.Shared.Pages.ComponentPages.BaseComponentPages.TELButtonPage", "rp": "TELBlazor.Components.ShowCase.Shared_TELButtonPage.html", "cl": 2, "ucl": 3, "cal": 5, "tl": 23, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
