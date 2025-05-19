@@ -1,8 +1,11 @@
 /* _content/TELBlazor.Components.ShowCase.Shared/Layouts/ComponentLayouts/ShowCase.razor.rz.scp.css */
+.test-component-warning-header[b-q5956azksr] {
+    color:red;
+}
 .component-showcase[b-q5956azksr] {
     padding: 1.5rem;
     margin-bottom: 2rem;
-    border: 1px solid #e5e7eb;  
+    border: 1px solid #e5e7eb;
     border-radius: 0.75rem;
     background-color: #ffffff;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
@@ -23,7 +26,7 @@
     margin-bottom: 1rem;
 }
 
-.component-description[b-q5956azksr] {
+.component-information[b-q5956azksr] {
     font-size: 0.95rem;
     color: #4b5563;  
     line-height: 1.6;
