@@ -454,7 +454,7 @@
           "Blazored.LocalStorage": "[4.5.0, )",
           "Microsoft.AspNetCore.Components.Web": "[8.0.14, )",
           "Serilog": "[4.2.0, )",
-          "TELBlazor.Components": "[1.1.0-feat-button-for-cicd-testing.14-250520-0915, )"
+          "TELBlazor.Components": "[1.1.0-feat-button-for-cicd-testing.15-250520-1032, )"
         }
       },
       "Microsoft.AspNetCore.Components.Web": {
@@ -510,9 +510,9 @@
       },
       "TELBlazor.Components": {
         "type": "CentralTransitive",
-        "requested": "[1.1.0-feat-button-for-cicd-testing.14-250520-0915, )",
-        "resolved": "1.1.0-feat-button-for-cicd-testing.14-250520-0915",
-        "contentHash": "1sCrRPMIIMDXdsihzAl43OvnX0S3BnBvJ5l40vsey7iAg388bKWW6NcJFzXyLtuZnAaZ+osM/jQhLLfTCnYH2g==",
+        "requested": "[1.1.0-feat-button-for-cicd-testing.15-250520-1032, )",
+        "resolved": "1.1.0-feat-button-for-cicd-testing.15-250520-1032",
+        "contentHash": "+/AC29zrMQCVD7xhbdtcPHLZYwiycXLyHWCDqlYgzDyh/enT8pR1lJ7TKYS08ilf04A5IGQFP3Z5HTuit/Vgzw==",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.14",
           "Microsoft.Extensions.DependencyInjection": "8.0.1",
