@@ -1,1 +1,1 @@
-﻿1.6.0-feat-button-for-cicd-testing.2-250609-1011
+﻿1.7.0-feat-button-for-cicd-testing.1-250609-1019
