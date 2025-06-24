@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TELBlazor.Components.ShowCase.WasmStaticClient",
   "resources": {
-    "hash": "sha256-TXapuzLPthVipUP6R1zKlOKPNs6kk9cA3IxOtp8vPu8=",
+    "hash": "sha256-f+ivaJrpGVnRAxf4rzdl6scwTy6jbaOidivQ3OSVwaA=",
     "jsModuleNative": {
       "dotnet.native.8.0.14.ao03vwswak.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -74,7 +74,7 @@
       "System.Private.Uri.wasm": "sha256-DiiDsfdugzG4l9HKQqQedwGulKsVaWSnyi05sRS8cx4=",
       "System.Reflection.Metadata.wasm": "sha256-HrylUZ1ZzhF2GRfkeGOrjbbOHzavvF+nJTyKJO4MAkM=",
       "System.Runtime.InteropServices.JavaScript.wasm": "sha256-6eHSoWwXTuym10+n/qcAjF9eWQVXNaD90wpgzm9k80w=",
-      "System.Runtime.wasm": "sha256-vzNjbhr+C/0WQ/81ygYP7KCng4boBj0MzFAqe0S4yGs=",
+      "System.Runtime.wasm": "sha256-zQA2zbs6bYnr1eFEyARYzbELhWD4Vl1M/q5SC+QZe5I=",
       "System.Security.Cryptography.wasm": "sha256-3kUC7DnWTcj7ZuBV1JOrezM/CbsMITaUgYEDZrqOfI4=",
       "System.Text.Encoding.Extensions.wasm": "sha256-P4Q8FPqQfNDbDtvHAj2IwLgQQhPQh3u3BcwhBV9WYW4=",
       "System.Text.Encodings.Web.wasm": "sha256-Cx70ujkGb4hquDT6iKS2E91YiNLpt2dsnrngK1wxeU8=",
@@ -82,9 +82,9 @@
       "System.Text.RegularExpressions.wasm": "sha256-Pns8BEYjdLIxkUGrHmoXrsh9WCKDhsZnjSfFLU+yZQQ=",
       "System.Threading.wasm": "sha256-fKqcheF9n6170f1R9J/6MvK2XmPFKH6r6A6mSu6QgFw=",
       "System.wasm": "sha256-qXepM8Oop8I1OsLVR8x7a8Xd7MHwoLhvdhz+zcTgtkU=",
-      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-113BRWHblYcBPk9ZLpyKXxXu+afmswGrfdi6I2vPH0o=",
-      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-+SbcoluAaFd5VKr7FThcZmqHSkURDfgBdlNQ/8Ecf6w=",
-      "TELBlazor.Components.wasm": "sha256-l+QLgm30N15ubWkaol6o//uK27MLY8/3mClbB6IBeG8="
+      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-hV+NwaZlN6gPXvaktcunf4r58gVCKc1x6uMWm1oUWqE=",
+      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-n4sdfXYQPBiA93xwJ8iHK3jBqNXqAA48ODvcCB83v6w=",
+      "TELBlazor.Components.wasm": "sha256-eQ1MGUMQZRelOQDMg1QB1VWMDR8XYlPUYx2UGLXvdg4="
     }
   },
   "cacheBootResources": true,
