@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TELBlazor.Components.ShowCase.WasmStaticClient",
   "resources": {
-    "hash": "sha256-pbvzK6UBfk00G2rAEeeGjQnCk7xUCRmqXcStRtkZHko=",
+    "hash": "sha256-Q0osnSTRpnKU1PAzT/4H5vWN52G2a9vd77tPVyuwg6w=",
     "jsModuleNative": {
       "dotnet.native.8.0.14.ao03vwswak.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -82,9 +82,9 @@
       "System.Text.RegularExpressions.wasm": "sha256-Pns8BEYjdLIxkUGrHmoXrsh9WCKDhsZnjSfFLU+yZQQ=",
       "System.Threading.wasm": "sha256-fKqcheF9n6170f1R9J/6MvK2XmPFKH6r6A6mSu6QgFw=",
       "System.wasm": "sha256-qXepM8Oop8I1OsLVR8x7a8Xd7MHwoLhvdhz+zcTgtkU=",
-      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-EapNevdPf+e9loGEAg4weecztK54/Nh0GAEaiJK+qIc=",
-      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-hxaJJ2sZ9hXBPu30fTx1z+tSkIuVVQZS/FmqS0IM2T4=",
-      "TELBlazor.Components.wasm": "sha256-GakHdiYj1bm2IGHh6k4JnC8umQKsX8i4FwUNmxIv+BI="
+      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-5rEjghr2FVKEgfIzlEmJE4wT860XYR5u3WbGorBZwOE=",
+      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-05tY861SId/cLKakXLar2xAQYrs6FhJuBscJPO/2GvQ=",
+      "TELBlazor.Components.wasm": "sha256-dSMboNsYGfwsJsXnOAEg5OoAOny+9HCcj9z6L10jFD8="
     }
   },
   "cacheBootResources": true,
