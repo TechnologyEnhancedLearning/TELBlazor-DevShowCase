@@ -463,7 +463,7 @@
           "Blazored.LocalStorage": "[4.5.0, )",
           "Microsoft.AspNetCore.Components.Web": "[8.0.14, )",
           "Serilog": "[4.2.0, )",
-          "TELBlazor.Components": "[1.8.0-feat-button-for-cicd-testing.4-250625-0912, )"
+          "TELBlazor.Components": "[1.8.0-feat-button-for-cicd-testing.4-250625-0935, )"
         }
       },
       "Microsoft.AspNetCore.Components.Web": {
