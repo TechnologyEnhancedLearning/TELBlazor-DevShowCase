@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TELBlazor.Components.ShowCase.WasmStaticClient",
   "resources": {
-    "hash": "sha256-TT21fbAOVxToFKwDZk0HZ0NfO7gTKglUCityMpa3tbA=",
+    "hash": "sha256-IJ07tXPmbJY2BmLp/D4pTJzW9SCmqye3LeSx4kpALDo=",
     "jsModuleNative": {
       "dotnet.native.8.0.14.ao03vwswak.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -20,7 +20,7 @@
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Markdig.wasm": "sha256-ti9e+dRTyajO3VJ91tYkaNE8yjQ+SP+J0iAha3mhhBs=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-daWwapg/UkGblZsI6ZsCQ571BgMutVkCsgiL5qxK3W0=",
-      "Microsoft.AspNetCore.Components.wasm": "sha256-PVhdFqK8XTTXmqDrtgrKH5f7Ax4CyFt2Ux13Q18ktIk=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-w2USZBjZt/mtPDZhaFdfFqaIXrYDL2eLkBeGzz7XrCo=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-6GLDYdoJ/s0dh5PgipPGA184UoGPY31qLaZGNrBibOE=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-3RAs+/RsgB+JRs9LvJ4Q7STHMxV4fKYJAob2Jr6Fbno=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-Po8rl8606IpMAPjngoqFT6xgsqh36z8leJckyA9llck=",
@@ -84,9 +84,9 @@
       "System.Text.RegularExpressions.wasm": "sha256-Pns8BEYjdLIxkUGrHmoXrsh9WCKDhsZnjSfFLU+yZQQ=",
       "System.Threading.wasm": "sha256-Dg/o3vO0pJTCekduO1P7efrPBY6d5Yd862/MjAPK2c0=",
       "System.wasm": "sha256-qXepM8Oop8I1OsLVR8x7a8Xd7MHwoLhvdhz+zcTgtkU=",
-      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-6v3MTVBAveiTzzS7Lj9FdL8WqtPghoyAg8dd3XO0VMI=",
-      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-4VyVBBPU18qpIAF8zZbprM5ur6EIC2BLfH1bxaoktmI=",
-      "TELBlazor.Components.wasm": "sha256-c0ztHeQ8LTNFrsiAD/T25GN3GCKQkMeD2DiJ4hMIRdY="
+      "TELBlazor.Components.ShowCase.Shared.wasm": "sha256-z9LT7KwRkbLgVP7ykQb5/iJAimloxRGBlPesyJGN7Ko=",
+      "TELBlazor.Components.ShowCase.WasmStaticClient.wasm": "sha256-dMiU8KLiUAKqwmhH72OBiSLHU1bd9Dwwljqv6pPT/+s=",
+      "TELBlazor.Components.wasm": "sha256-e5+cm/TtDJCYqEf+6LzFnkEalbT/hQ0Yu7pGFKleiuc="
     }
   },
   "cacheBootResources": true,
