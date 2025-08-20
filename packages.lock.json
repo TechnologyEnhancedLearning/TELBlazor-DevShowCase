@@ -144,9 +144,9 @@
       },
       "TELBlazor.Components": {
         "type": "Direct",
-        "requested": "[1.12.0-refactor-logging.1-250820-0823, )",
-        "resolved": "1.12.0-refactor-logging.1-250820-0823",
-        "contentHash": "DR629IB7fR2eh4HtN5ccAr/nwz9OdBnD4nbt8BFSKuXp46UYPg7InjF0lDl0xIGSq7Ag7kX47j05d4g4HjFjlQ==",
+        "requested": "[1.12.0-refactor-logging.1-250820-0915, )",
+        "resolved": "1.12.0-refactor-logging.1-250820-0915",
+        "contentHash": "fgPYnlp9Qn6h1VNBBrHMtSJpvPF6uJp/8ZSizxqILyMWGtnBfMWoqd+ZsZfsBXvUx/Rb3Qe4c0goNg5jjosYzQ==",
         "dependencies": {
           "Blazored.LocalStorage": "4.5.0",
           "Microsoft.AspNetCore.Components.Web": "8.0.14",
@@ -470,7 +470,7 @@
           "Markdig": "[0.41.3, )",
           "Microsoft.AspNetCore.Components.Web": "[8.0.14, )",
           "Serilog": "[4.2.0, )",
-          "TELBlazor.Components": "[1.12.0-refactor-logging.1-250820-0823, )"
+          "TELBlazor.Components": "[1.12.0-refactor-logging.1-250820-0915, )"
         }
       },
       "Markdig": {
