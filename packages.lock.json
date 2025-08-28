@@ -88,9 +88,9 @@
       },
       "Serilog": {
         "type": "Direct",
-        "requested": "[4.2.0, )",
-        "resolved": "4.2.0",
-        "contentHash": "gmoWVOvKgbME8TYR+gwMf7osROiWAURterc6Rt2dQyX7wtjZYpqFiA/pY6ztjGQKKV62GGCyOcmtP1UKMHgSmA=="
+        "requested": "[4.3.0, )",
+        "resolved": "4.3.0",
+        "contentHash": "+cDryFR0GRhsGOnZSKwaDzRRl4MupvJ42FhCE4zhQRVanX0Jpg6WuCBk59OVhVDPmab1bB+nRykAnykYELA9qQ=="
       },
       "Serilog.Extensions.Logging": {
         "type": "Direct",
@@ -144,9 +144,9 @@
       },
       "TELBlazor.Components": {
         "type": "Direct",
-        "requested": "[1.15.0-250828-1549, )",
-        "resolved": "1.15.0-250828-1549",
-        "contentHash": "2Y4CjUVTuv35yKUpUmEHgl5Ga/A84BtN7HdkXj3HUOiHwJImh/HMfhFxvHembon8vXXrTuPJzpxBVuDKgamd+A==",
+        "requested": "[1.15.0-250828-1610, )",
+        "resolved": "1.15.0-250828-1610",
+        "contentHash": "jZ8MkwNDgmEbx54OHgHSAG96sv1eml1+pnx+8+M8hBlbLiaip62LGYqckyKRKq0g3vmoFfsOB/Kms2eWCSOaCA==",
         "dependencies": {
           "Blazored.LocalStorage": "4.5.0",
           "Microsoft.AspNetCore.Components.Web": "8.0.14",
@@ -154,7 +154,7 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
           "Microsoft.Extensions.Http": "8.0.1",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "8.0.0",
-          "Serilog": "4.2.0"
+          "Serilog": "4.3.0"
         }
       },
       "Microsoft.AspNetCore.Authorization": {
@@ -469,8 +469,8 @@
           "Blazored.LocalStorage": "[4.5.0, )",
           "Markdig": "[0.41.3, )",
           "Microsoft.AspNetCore.Components.Web": "[8.0.14, )",
-          "Serilog": "[4.2.0, )",
-          "TELBlazor.Components": "[1.15.0-250828-1549, )"
+          "Serilog": "[4.3.0, )",
+          "TELBlazor.Components": "[1.15.0-250828-1610, )"
         }
       },
       "Markdig": {
