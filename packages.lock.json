@@ -144,9 +144,9 @@
       },
       "TELBlazor.Components": {
         "type": "Direct",
-        "requested": "[1.15.0-250901-1536, )",
-        "resolved": "1.15.0-250901-1536",
-        "contentHash": "1gOtsbsyGT7GeNlngBenR0INlP4Uqi0PDmB4Ml2GG3/Gb3W+ABCs9VrFBxxMhG6hke+NBsqYfjs8iwWnzDmujA==",
+        "requested": "[1.15.0-250901-1559, )",
+        "resolved": "1.15.0-250901-1559",
+        "contentHash": "GTNbB+M90wdJmAHtge+wLbZQdNOoAYaUw9NCtOytN5C1XoOS69Yz9/BNKn1isoXOpc8p9XZxJNvrLOiw0oAa2w==",
         "dependencies": {
           "Blazored.LocalStorage": "4.5.0",
           "Microsoft.AspNetCore.Components.Web": "8.0.14",
@@ -470,7 +470,7 @@
           "Markdig": "[0.41.3, )",
           "Microsoft.AspNetCore.Components.Web": "[8.0.14, )",
           "Serilog": "[4.2.0, )",
-          "TELBlazor.Components": "[1.15.0-250901-1536, )"
+          "TELBlazor.Components": "[1.15.0-250901-1559, )"
         }
       },
       "Markdig": {
